@@ -9,4 +9,5 @@ module com.example.javafx {
     opens com.example.javafx.sphere to javafx.fxml;
 
     exports com.example.javafx.camera;
+    exports com.example.javafx.rotation;
 }
